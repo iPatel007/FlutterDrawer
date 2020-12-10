@@ -12,7 +12,7 @@ class InitialSetupPage extends StatelessWidget {
         primarySwatch: Colors.pink
       ),
       debugShowCheckedModeBanner: false,
-      home: HomePage(pageTitle: 'Home',),
+      home: HomePage(pageTitle: 'Home'),
     );
   }
 }
